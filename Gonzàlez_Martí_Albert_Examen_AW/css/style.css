@@ -1,0 +1,89 @@
+#top h1{
+  color: red;
+  font:bold 26px Arial;
+  text-align: left;
+  padding-left: 35px;
+  padding-top: 20px;
+}
+
+#top{
+  background:url('../img/thermorecetas.png') no-repeat;
+  height:140px;
+  margin-left: 240px;
+}
+
+#top span{
+  font:bold 10px arial;
+  margin-right: 875px;
+  color:#868686;
+}
+
+#column-izq{
+  padding-right: 760px;
+}
+
+#column-izq h3{
+  border: solid 2px grey;
+  width: 150px;
+  font:bold 16px arial;
+  color:#868686;
+  vertical-align:top;
+}
+
+#column-izq p{
+  font:normal 14px arial;
+  padding-left: 270px;
+  border-bottom:solid 1px #EBEBF2;
+  margin:0;
+  color:brown;
+  text-align: left;
+}
+
+#contenedor{
+
+}
+
+.columna-central{
+  margin-top: -177px;
+  margin-left: -20px;
+  font:normal 14px arial;
+  width:550px;
+  text-align: left;
+}
+
+.columna_dreta{
+  padding-left: 1210px;
+  margin-top: -888px;
+  text-align:left;
+  background-color:#ffffff;
+}
+
+h2{
+  font:bold italic 18px arial;
+  color:red;
+}
+
+h4{
+  font:bold  12px arial;
+}
+
+.recerca{
+  background-color:#F6F6F6;
+}
+
+body{
+  background-color:#D3D3D3;
+}
+
+.peu{
+  padding-top: 500px;
+  font:bold 10px arial;
+  text-align:center
+}
+
+.peu span{
+  border:solid 1px grey;
+  background-color: grey;
+  width: 500px;
+  height: 50px;
+}

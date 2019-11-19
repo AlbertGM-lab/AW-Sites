@@ -1,0 +1,140 @@
+  body{
+    background: url("../img/inicio_1.png");
+  }
+
+
+  #cabecera{
+    border: solid 1px;
+    width: 1200px;
+    height: 73px;
+    background: url("../img/bg_top.png");
+  }
+
+  .input-text{
+    margin-top: 25px;
+    width: 350px;
+    text-align: left;
+  }
+
+  .input-button{
+    margin-top: 25px;
+    height: 25px;
+  }
+
+  #menu{
+    padding-top: 5px;
+    text-align: left;
+    padding-left: 32px;
+
+    border: solid 1px;
+    width: 1168px;
+    height: 24px;
+    background: url("../img/bg_menu.png");
+  }
+
+  #menu a{
+    font: 13.5px Arial;
+    text-decoration: none;
+    color: #a8c7f7;
+  }
+
+  .alin-derecha{
+    margin-right: 12px;
+  }
+
+  #main{
+    border: solid 1px black;
+    width: 1200px;
+    height: 420px;
+    background: url("../img/final.jpg") no-repeat;
+    background-size: 765px 420px;
+    background-color: black;
+  }
+
+  #main h1{
+    padding-right: 940px;
+    padding-top: 55px;
+    color: red;
+    font:bold 34px Arial;
+  }
+
+  #main h3{
+    padding-right: 1013px;
+    color: white;
+    font:bold 17px Arial;
+  }
+
+  #main h4{
+    text-align: left;
+    padding-left: 25px;
+    color: white;
+    font: 15px Arial;
+    font-style: normal;
+  }
+
+  aside{
+    text-align: justify;
+  	float: right;
+  	width: 30%;
+    margin-top: -300px;
+    margin-right: 35px;
+  }
+  aside h5{
+    margin-left: -30px;
+    width: 50%;
+  	font:bold 18px arial;
+  	color: white;
+  }
+  aside ul{
+  	list-style-type:none;
+    margin-top: 10px;
+    margin-left: -70px;
+  }
+  aside li{
+  	font:normal 12px arial;
+  	color: white;
+  	padding-left:70px;
+  	padding-top:30px;
+  	height:38px;
+  	text-align:justify;
+  }
+
+  aside li{
+    padding-left: 70px;
+    padding-top: 0px;
+  }
+
+  aside #foto_1{
+    background: url('../img/foto_1.jpg') no-repeat top left;
+  }
+  aside #foto_2{
+  	background: url('../img/foto_2.jpg') no-repeat top left;
+  }
+  aside #foto_3{
+  	background: url('../img/foto_3.jpg') no-repeat top left;
+  }
+  aside #foto_4{
+  	background: url('../img/foto_4.jpg') no-repeat top left;
+  }
+  aside #foto_5{
+  	background: url('../img/foto_5.jpg') no-repeat top left;
+  }
+
+
+  footer{
+    padding-top: 5px;
+    order: solid 1px;
+    width: 1202px;
+    height: 92px;
+    background: url("../img/bg_peu.png");
+  }
+
+  footer p{
+    font-size: 11px;
+    font-style: normal;
+    color: grey;
+  }
+
+  footer .redes-sociales{
+    margin-top: 20px;
+  }
